@@ -36,3 +36,7 @@
  5) To make a debug build, execute: ant debug
     To make a release build, ensure that key.store is properly configured.
     Then execute: ant release
+    
+    
+    
+    Link: http://android-developers.blogspot.com/2011/07/custom-class-loading-in-dalvik.html
